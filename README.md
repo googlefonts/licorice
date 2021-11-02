@@ -2,7 +2,7 @@
 
 Licorice is a playful handwritten font that is perfect scrapbooking, cards, invitations and fun events.
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
