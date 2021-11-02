@@ -1,5 +1,8 @@
 {
 .appVersion = "1352";
+DisplayStrings = (
+"/nbspace"
+);
 copyright = "Copyright 2012-2021 The Gwendolyn Project Authors (https://github.com/googlefonts/gwendolyn)";
 customParameters = (
 {
@@ -42,7 +45,7 @@ name = glyphOrder;
 value = (
 .notdef,
 CR,
-NULL,
+.null,
 space,
 nbspace
 );
@@ -255,6 +258,25 @@ width = 501;
 note = .notdef;
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = .null;
+layers = (
+{
+layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
+width = 600;
+}
+);
+},
+{
 glyphname = space;
 layers = (
 {
@@ -267,13 +289,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2021-09-22 19:52:24 +0000";
+lastChange = "2021-11-02 14:59:26 +0000";
 layers = (
 {
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 50;
+width = 241;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
@@ -30841,16 +30864,7 @@ width = 240;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = Licorice;
-},
-{
-name = postscriptFontName;
-value = Licorice;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "747EDECB-6CB4-4831-9662-77535A1F4B33" = 1;
 };
