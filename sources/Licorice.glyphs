@@ -11,8 +11,9 @@ DisplayStrings = (
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo/space abcdefeghihukujklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month",
 "É/Ebreve/Ecaron Ê/Ecircumflexacute Ó/Ocircumflexdotbelow/Ocircumflextilde Ö/Odieresismacron/Odotaccentmacron/Scaron UÚ/Ubreve \012/circumflexcomb.case/caroncomb.case U/Ucaron/dieresiscomb.case/Udieresiscaron",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012012347507647989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012",
-"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT (){}O[]-/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase/space Oso\012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @",
-"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABzCDzEzFzGzHzIsyzJszKLeoMNOszPQzRSszTzyU/space VeronicaWszXYzZ\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month"
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o,:;/ellipsis r!¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT (){}O[]-/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase/space Oso\012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @",
+"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABzCDzEzFzGodoezHzIsyzJszKLeoMNOszPQzRSszTzyU/space VeronicaWuszXYzZ\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato/space \012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month",
+"/Tcedilla/tcedilla"
 );
 classes = (
 {
@@ -2474,7 +2475,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2021-11-12 01:17:24 +0000";
+lastChange = "2021-11-12 01:38:21 +0000";
 layers = (
 {
 anchors = (
@@ -6679,16 +6680,12 @@ unicode = 0164;
 },
 {
 glyphname = Tcedilla;
-lastChange = "2021-11-12 00:19:18 +0000";
+lastChange = "2021-11-12 01:54:45 +0000";
 layers = (
 {
 components = (
 {
-name = T;
-},
-{
-name = cedillacomb;
-transform = "{1, 0, 0, 1, 209, -9}";
+name = Tcommaaccent;
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
@@ -7423,7 +7420,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-11-12 01:26:41 +0000";
+lastChange = "2021-11-12 01:37:53 +0000";
 layers = (
 {
 anchors = (
@@ -9288,7 +9285,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2021-11-05 14:44:14 +0000";
+lastChange = "2021-11-12 01:38:56 +0000";
 layers = (
 {
 anchors = (
@@ -9386,6 +9383,7 @@ nodes = (
 width = 343;
 }
 );
+leftKerningGroup = o;
 note = d;
 unicode = 0064;
 },
@@ -13519,7 +13517,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2021-11-12 00:46:25 +0000";
+lastChange = "2021-11-12 01:40:00 +0000";
 layers = (
 {
 anchors = (
@@ -13588,7 +13586,7 @@ nodes = (
 );
 }
 );
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -13598,7 +13596,7 @@ unicode = 0072;
 },
 {
 glyphname = racute;
-lastChange = "2021-11-12 00:46:27 +0000";
+lastChange = "2021-11-12 01:40:18 +0000";
 layers = (
 {
 components = (
@@ -13611,7 +13609,7 @@ transform = "{1, 0, 0, 1, 122, 0}";
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -13620,7 +13618,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2021-11-12 00:46:30 +0000";
+lastChange = "2021-11-12 01:40:18 +0000";
 layers = (
 {
 components = (
@@ -13633,7 +13631,7 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -13642,7 +13640,7 @@ unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2021-11-12 00:46:33 +0000";
+lastChange = "2021-11-12 01:40:18 +0000";
 layers = (
 {
 components = (
@@ -13655,7 +13653,7 @@ transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -13664,7 +13662,7 @@ unicode = 0157;
 },
 {
 glyphname = rdblgrave;
-lastChange = "2021-11-12 00:46:36 +0000";
+lastChange = "2021-11-12 01:40:18 +0000";
 layers = (
 {
 components = (
@@ -13677,7 +13675,7 @@ transform = "{1, 0, 0, 1, 16, 0}";
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -13686,7 +13684,7 @@ unicode = 0211;
 },
 {
 glyphname = rinvertedbreve;
-lastChange = "2021-11-12 00:46:38 +0000";
+lastChange = "2021-11-12 01:40:18 +0000";
 layers = (
 {
 components = (
@@ -13699,7 +13697,7 @@ transform = "{1, 0, 0, 1, 68, 0}";
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
-width = 260;
+width = 250;
 }
 );
 leftKerningGroup = r;
@@ -14187,16 +14185,12 @@ unicode = 0165;
 },
 {
 glyphname = tcedilla;
-lastChange = "2021-11-12 00:47:00 +0000";
+lastChange = "2021-11-12 01:54:54 +0000";
 layers = (
 {
 components = (
 {
-name = t;
-},
-{
-name = cedillacomb;
-transform = "{1, 0, 0, 1, 29, 30}";
+name = tcommaaccent;
 }
 );
 layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
@@ -19122,6 +19116,17 @@ width = 397;
 );
 note = hyphen;
 unicode = 002D;
+},
+{
+glyphname = softhyphen;
+lastChange = "2021-11-12 01:48:48 +0000";
+layers = (
+{
+layerId = "747EDECB-6CB4-4831-9662-77535A1F4B33";
+width = 0;
+}
+);
+unicode = 00AD;
 },
 {
 glyphname = endash;
@@ -30489,6 +30494,10 @@ weightClass = Normal;
 );
 kerning = {
 "747EDECB-6CB4-4831-9662-77535A1F4B33" = {
+"@MMK_L_r" = {
+"@MMK_R_o" = -11;
+exclam = -13;
+};
 B = {
 "@MMK_R_a" = -24;
 "@MMK_R_o" = -30;
@@ -30515,8 +30524,9 @@ F = {
 };
 G = {
 "@MMK_R_a" = -30;
+"@MMK_R_e" = -20;
 "@MMK_R_z" = -42;
-o = -40;
+"@MMK_R_o" = -40;
 };
 H = {
 "@MMK_R_o" = -14;
@@ -30583,6 +30593,7 @@ W = {
 "@MMK_R_a" = -10;
 "@MMK_R_o" = -12;
 "@MMK_R_s" = -10;
+"@MMK_R_u" = 20;
 "@MMK_R_z" = -50;
 };
 Y = {
@@ -30610,5 +30621,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 10;
 }
